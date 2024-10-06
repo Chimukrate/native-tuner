@@ -29,6 +29,7 @@ export default class Scaleform {
                         else {
                             game.scaleformMovieMethodAddParamInt(arg);
                         }
+                        break;
                     }
                 case "string":
                     {
